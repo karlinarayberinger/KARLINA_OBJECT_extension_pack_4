@@ -1,0 +1,15 @@
+/** 
+  * file: karbytes_27_november_2023.txt
+  * type: plain-text 
+  * date: 27_NOVEMBER_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN
+  */
+
+After burning three M_DISCs between 9PM and 11PM today each with the files listed in the file whose URL is displayed in the next paragraph, karbytes unarchived the public karbytes-created repository named KARLINA_OBJECT_extension_pack_3 in order to append the paragraph (which is displayed in this file after the aforementioned URL) to the file inside that repository named karbytes_for_life_blog_updates.txt:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/M_DISCs_burn_list_winter_2023.txt
+
+karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 4:03PM Pacific Standard Time on 27_NOVEMBER_2023.
+
+After that change to the GitHub repository named KARLINA_OBJECT_extension_pack_3 was made, karbytes re-acrhived that GitHub repository (i.e. set it to be "read only" instead of open to future edits).
