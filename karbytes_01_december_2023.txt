@@ -1,18 +1,12 @@
-<hr />
-<p><strong>karbytes_01_december_2023</strong></p>
-<hr />
-<p><em>To view hidden text inside the preformatted text box below, scroll horizontally.</em></p>
-<hr>
-<pre>
 /**
- * file: <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_4/main/karbytes_01_december_2023.txt" target="_blank" rel="noopener">karbytes_01_december_2023.txt</a>
+ * file: karbytes_01_december_2023.txt
  * type: plain-text
  * date: 01_DECEMBER_2023
- * author: <a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/about_karbytes/" target="_blank" rel="noopener">karbytes</a>
- * license: <a style="background: #000000;color: #ff9000" href="https://karlinaobject.wordpress.com/public_domain/" target="_blank" rel="noopener">PUBLIC_DOMAIN</a>
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
  */
 
-On 30_NOVEMBER_2023 at approximately 8PM, the WayBack Machine (which is part of the website named Archive dot Org) started to generate the following <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_4/main/wayback_machine_404_server_error_for_all_urls_karbytes_attempted_to_save_at_approximately_8pm_on_30_november_2023.png" target="_blank" rel="noopener">server response</a> (Hypertext Transfer Protocol (HTTP) code 404) to each Uniform Resource Locator (URL) which karbytes input into the WayBack Machine web page capture form:
+On 30_NOVEMBER_2023 at approximately 8PM, the WayBack Machine (which is part of the website named Archive dot Org) started to generate the following server response (Hypertext Transfer Protocol (HTTP) code 404) to each Uniform Resource Locator (URL) which karbytes input into the WayBack Machine web page capture form:
 
 ---
 
@@ -26,7 +20,7 @@ karbytes reports having occasionally experienced various types of WayBack Machin
 
 karbytes thinks that most of those service outages (including the service outage specifically referred to by this journal entry) is most likely entirely the result of routine server maintenance (especially since the aforementioned service outage occurred on the last day of the month (possibly because WayBack Machine web page capture requests need to be rejected in order to prevent those web page saves from being improperly indexed in the WayBack Machine database according to each of those saves' calendar date).
 
-karbytes has been reluctant to publicly disclose specific personally identifying details about interpersonal conflicts which recently occurred in karbytes' life and which karbytes did not initiate in the "chapter" of karbytes' blog named <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_4/" target="_blank" rel="noopener">KARLINA_OBJECT_EXTENSION_PACK_4</a>. 
+karbytes has been reluctant to publicly disclose specific personally identifying details about interpersonal conflicts which recently occurred in karbytes' life and which karbytes did not initiate in the "chapter" of karbytes' blog named KARLINA_OBJECT_EXTENSION_PACK_4. 
 
 karbytes has also been reluctant to refer to itself using first person pronouns (such as "I", "me", and "mine") in KARLINA_OBJECT_EXTENSION_PACK_4.
 
@@ -36,7 +30,7 @@ The previous three paragraphs of this note are related to the fact that karbytes
 
 karbytes has posited that the "worst case scenario" pertaining to the context of the WayBack Machine web page save (or web page save retrieval) requests (to the servers which run the WayBack Machine) is (a) karbytes being prevented from successfully saving web pages to the WayBack Machine ever again and (b) web page saves (or media files which are embedded in those saved web pages) being permanently removed from the WayBack Machine database.
 
-<span style="background:#ffff00">If the aforementioned "worst case scenario" occurs, karbytes will likely update each of the "micro directory" web pages which are referenced via hyperlink in the web page named <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_macro_directory/" target="_blank" rel="noopener">RAW_GITHUB_FILES_MACRO_DIRECTORY</a> of the website named <a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/" target="_blank" rel="noopener">Karbytes For Life Blog dot WordPress dot Com</a> by <strike>striking out</strike> (putting a line through a sequence of text characters without making that text unreadable) the paragraphs which describe karbytes' WayBack Machine batch web page save procedure and, above those paragraphs, add a paragraph which announces that karbytes is no longer able to successfully save its website content to the WayBack Machine database (but karbytes will likely find some alternative service for publicly archiving web hosted digital files and allude to that service in that newly appended paragraph).</span>
+If the aforementioned "worst case scenario" occurs, karbytes will likely update each of the "micro directory" web pages which are referenced via hyperlink in the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com by striking out (putting a line through a sequence of text characters without making that text unreadable) the paragraphs which describe karbytes' WayBack Machine batch web page save procedure and, above those paragraphs, add a paragraph which announces that karbytes is no longer able to successfully save its website content to the WayBack Machine database (but karbytes will likely find some alternative service for publicly archiving web hosted digital files and allude to that service in that newly appended paragraph).
 
 * * *
 
@@ -54,25 +48,21 @@ As a corollary to the previous paragraph, karbytes thinks that perhaps the most 
 
 * * *
 
-<span style="background:#ffff00">On 01_DECEMBER_2023 at approximately 10AM, karbytes was able to successfully save URLs to the WayBack Machine. In other words, at the time this section of this note was appended to this note, the WayBack Machine appears to be working normally for karbytes.</span>
+On 01_DECEMBER_2023 at approximately 10AM, karbytes was able to successfully save URLs to the WayBack Machine. In other words, at the time this section of this note was appended to this note, the WayBack Machine appears to be working normally for karbytes.
 
 * * *
 
-I think that it is somewhat likely that, sometime while I use <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/karbytes_dmt_video_25_november_2023.mp4" target="_blank" rel="noopener">DMT</a> after orally ingesting some specially prepared form of it (i.e. like what shamans have used for religious ceremonies), I might (based on what I have personally read on the internet) temporally (within the span of 24 hours) dream that I am some creature other than karbytes and possibly forget that I am karbytes.
+I think that it is somewhat likely that, sometime while I use DMT after orally ingesting some specially prepared form of it (i.e. like what shamans have used for religious ceremonies), I might (based on what I have personally read on the internet) temporally (within the span of 24 hours) dream that I am some creature other than karbytes and possibly forget that I am karbytes.
 
-(Yes I know that I am using first person pronouns such as "I", "me", and "my" instead of third person pronouns such as "it" and "its" (and my self assigned primary name (which is, of course, karbytes). That is because the details in this section of this note are easier for me to articulate from a <a style="background: #000000;color: #ff9000" href="https://karlinaobject.wordpress.com/agency/" target="_blank" rel="noopener">personal</a> (i.e. "warm" and "intimate") perspective instead of from a relatively impersonal (i.e. "cold" and "detached" and "alien") perspective).
+(Yes I know that I am using first person pronouns such as "I", "me", and "my" instead of third person pronouns such as "it" and "its" (and my self assigned primary name (which is, of course, karbytes). That is because the details in this section of this note are easier for me to articulate from a personal (i.e. "warm" and "intimate") perspective instead of from a relatively impersonal (i.e. "cold" and "detached" and "alien") perspective).
 
-<span style="background:#00ffff">While I experience that DMT induced dream state described in the second to most recent paragraph before this paragraph, it is (at least hypothetically) possible that I (i.e. karbytes) will literally teleport from being physically localized and confined to the human body which consumed that DMT drink to some other parallel (but just as physically real) universe in which I may or may not be localized and confined to some human body which resembles karbytes.</span>
+While I experience that DMT induced dream state described in the second to most recent paragraph before this paragraph, it is (at least hypothetically) possible that I (i.e. karbytes) will literally teleport from being physically localized and confined to the human body which consumed that DMT drink to some other parallel (but just as physically real) universe in which I may or may not be localized and confined to some human body which resembles karbytes.
 
-In other words, consuming a sufficiently powerful psychedelic might actually physically cause my body to die while my continuity of consciousness <a style="background: #000000;color: #ff9000" href="https://karlinaobject.wordpress.com/causality/" target="_blank" rel="noopener">"travels"</a> (i.e. "teleports") into a new universe which appears to be very similar if not identical to the universe my body died in. 
+In other words, consuming a sufficiently powerful psychedelic might actually physically cause my body to die while my continuity of consciousness "travels" (i.e. "teleports") into a new universe which appears to be very similar if not identical to the universe my body died in. 
 
 (If that is true (and I am doubtful it is), then using sufficiently powerful psychedelics is literally a means for extending my lifespan indefinitely because, as soon as the body I am currently inhabiting becomes too inhospitable to ("my") consciousness to want to inhabit , then I could either take a sufficiently strong psychedelic (which I strongly prefer) or else allow my body to physically die (which I do not prefer) as a means to facilitate my next reincarnation cycle).
 normally for karbytes.
 
 * * *
 
-<span style="background:#ffff00">This morning (and every Friday which I work at the Amazon facility in Fremont, California), my paycheck (whose amount is a function of the number of hours I worked for that week) gets directly deposited into my Patelco checking account. I decided to save at least $100 of my most recently deposited paycheck so that I can afford to quickly obtain a new (Android operating system) phone from the nearby Target (or some other relatively local "brick and mortar" store) because my phone is perhaps my most essential tool. It functions as an alarm clock, means to select shifts at Amazon, make and receive phone calls, text messages, and email messages, browse the World Wide Web, make (quick and simple) edits to my blog (i.e. updating plain-text journal files which are hosted in a karbytes-created public (or private) GitHub repository, and use a loud alarm clock application to wake me up from sleeping at predetermined times which I specify so that I am not late to my appointments.</span>
-</pre>
-<hr />
-<p>This web page was last updated on 01_DECEMBER_2023. The content displayed on this web page is licensed as <a style="background: #000000;color: #ff9000" href="https://karlinaobject.wordpress.com/public_domain/" target="_blank" rel="noopener">PUBLIC_DOMAIN</a> intellectual property.</p>
-<hr>
+This morning (and every Friday which I work at the Amazon facility in Fremont, California), my paycheck (whose amount is a function of the number of hours I worked for that week) gets directly deposited into my Patelco checking account. I decided to save at least $100 of my most recently deposited paycheck so that I can afford to quickly obtain a new (Android operating system) phone from the nearby Target (or some other relatively local "brick and mortar" store) because my phone is perhaps my most essential tool. It functions as an alarm clock, means to select shifts at Amazon, make and receive phone calls, text messages, and email messages, browse the World Wide Web, make (quick and simple) edits to my blog (i.e. updating plain-text journal files which are hosted in a karbytes-created public (or private) GitHub repository, and use a loud alarm clock application to wake me up from sleeping at predetermined times which I specify so that I am not late to my appointments.
