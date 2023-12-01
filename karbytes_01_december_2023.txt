@@ -1,0 +1,27 @@
+t
+
+On 30_NOVEMBER_2023 at approximately 8PM, the WayBack Machine (which is part of the website named Archive dot Org) started to generate the following server response (Hypertext Transfer Protocol (HTTP) code 404) to each Uniform Resource Locator (URL) which karbytes input into the WayBack Machine web page capture form:
+
+* * *
+
+Not Found
+
+The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+* * *
+
+karbytes reports having occasionally experienced various types of WayBack Machine service outages during the past four years and that most of those service outages lasted for no more than 24 hours.
+
+karbytes thinks that most of those service outages (including the service outage specifically referred to by this journal entry) is most likely entirely the result of routine server maintenance (especially since the aforementioned service outage occurred on the last day of the month (possibly because WayBack Machine web page capture requests need to be rejected in order to prevent those web page saves from being improperly indexed in the WayBack Machine database according to each of those saves' calendar date).
+
+karbytes has been reluctant to publicly disclose specific personally identifying details about interpersonal conflicts which recently occurred in karbytes' life and which karbytes did not initiate in the "chapter" of karbytes' blog named KARLINA_OBJECT_EXTENSION_PACK_4. 
+
+karbytes has also been reluctant to refer to itself using first person pronouns (such as "I", "me", and "mine") in KARLINA_OBJECT_EXTENSION_PACK_4.
+
+The previous two paragraphs of this plain-text journal entry are meant by karbytes to insinuate that karbytes is being stricter in this chapter than in previous chapters in terms of informational content which karbytes permits to take residence in karbytes' blog.
+
+The previous three paragraphs of this note are related to the fact that karbytes suspects that law enforcement personnel or other persons have hacked into karbytes' laptop computer and smartphone in order to block or redirect karbytes' Internet traffic in order to censor karbytes' intellectual property publication attempts (perhaps because karbytes' blogging content (which is entirely encapsulated (in the form of web pages and outgoing hyperlinks) by the website named Karbytes For Life Blog dot WordPress dot Com) contains what some people deem to be controversial or inconvenient subject matter or because some people think karbytes deserves to be subject to adversity in order to satisfy some people's cravings for schadenfreude specifically at karbytes' expense).
+
+karbytes has posited that the "worst case scenario" pertaining to the context of the WayBack Machine web page save (or web page save retrieval) requests (to the servers which run the WayBack Machine) is (a) karbytes being prevented from successfully saving web pages to the WayBack Machine ever again and (b) web page saves (or media files which are embedded in those saved web pages) being permanently removed from the WayBack Machine database.
+
+If the aforementioned "worst case scenario" occurs, karbytes will likely update each of the "micro directory" web pages which are referenced via hyperlink in the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com by striking out (putting a line through a sequence of text characters without making that text unreadable) the paragraphs which describe karbytes' WayBack Machine batch web page save procedure and, above those paragraphs, add a paragraph which announces that karbytes is no longer able to successfully save its website content to the WayBack Machine database (but karbytes will likely find some alternative service for publicly archiving web hosted digital files and allude to that service in that newly appended paragraph).
