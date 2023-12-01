@@ -1,14 +1,20 @@
-t
+/** 
+  * file: karbyteat01_december_2023.txt
+  * type: plain-text 
+  * date: 01_DECEMBER_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN
+  */
 
 On 30_NOVEMBER_2023 at approximately 8PM, the WayBack Machine (which is part of the website named Archive dot Org) started to generate the following server response (Hypertext Transfer Protocol (HTTP) code 404) to each Uniform Resource Locator (URL) which karbytes input into the WayBack Machine web page capture form:
 
-* * *
+---
 
 Not Found
 
 The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
 
-* * *
+---
 
 karbytes reports having occasionally experienced various types of WayBack Machine service outages during the past four years and that most of those service outages lasted for no more than 24 hours.
 
