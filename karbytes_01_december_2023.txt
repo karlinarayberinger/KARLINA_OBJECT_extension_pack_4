@@ -66,3 +66,11 @@ normally for karbytes.
 * * *
 
 This morning (and every Friday which I work at the Amazon facility in Fremont, California), my paycheck (whose amount is a function of the number of hours I worked for that week) gets directly deposited into my Patelco checking account. I decided to save at least $100 of my most recently deposited paycheck so that I can afford to quickly obtain a new (Android operating system) phone from the nearby Target (or some other relatively local "brick and mortar" store) because my phone is perhaps my most essential tool. It functions as an alarm clock, means to select shifts at Amazon, make and receive phone calls, text messages, and email messages, browse the World Wide Web, make (quick and simple) edits to my blog (i.e. updating plain-text journal files which are hosted in a karbytes-created public (or private) GitHub repository, and use a loud alarm clock application to wake me up from sleeping at predetermined times which I specify so that I am not late to my appointments.
+
+* * *
+
+01_DECEMBER_2023: The image which is displayed on this web page depicts a binary tree directional graph instead of an N-ary tree directional graph (where N is a placeholder for some arbitrary natural number (and such that not all nodes have the same number of branches stemming from it)). Each information processing agent traverses exactly one linear space-time continuum through a multiverse whose decisional branching into child universes from exactly one parent universe resembles an N-ary tree directional graph (and not necessarily just a binary tree directional graph).
+
+---
+
+The paragraph above is being added to the web page named CAUSALITY on the website named Karlina Object dot WordPress dot Com on 01_DECEMBER_2023.
