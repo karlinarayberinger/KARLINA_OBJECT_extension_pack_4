@@ -1,0 +1,86 @@
+﻿causality_winter_2023_abridged
+
+
+[Note that this Portable Format Document (to print out onto pieces of white paper which are each 8.5 inches wide and 11 inches tall using black ink, sans-serif font, and 11 point font size) contains plain-text content only and that not all the content which is featured on the web page named Karlina Object dot WordPress dot Com forward slash Causality is featured also in this document].
+
+
+https://karlinaobject.wordpress.com/causality/
+
+
+The final draft version of this document was published on 01_DECEMBER_2023.
+
+
+________________
+
+
+
+
+CAUSALITY
+
+
+________________
+
+
+
+
+
+
+image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/determinism_flowchart_diagram.png
+
+
+________________
+
+
+
+
+The content which is featured on this web page elaborates on the concepts which are introduced on the web pages of this website named MULTIVERSE and AGENCY.
+
+
+________________
+
+
+
+
+The diagram image featured on this web page depicts an information processing agent’s own imagined decision-making process (which appears to be logically structured as a binary tree such that the square nodes of the binary tree graph represent imagined or empirically observed events which occur inside of that information processing agent’s own solipsistic space-time continuum and such that the green highlighted path from time_0 to time_3 represents the information processing agent’s decision-making trajectory during the time interval which starts at time_0 and which ends at time_3).
+
+
+The decision-making trajectory depicted by the diagram is the respective information processing agent’s subjective experience of observing (a) the event labeled e0 being replaced by the event labeled e1 inside of the space-time interval whose endpoints are labeled time_0 and time_1, (b) the event labeled e1 being replaced by the event labeled e4 inside of the space-time interval whose endpoints are labeled time_1 and time_2, (c) the event labeled e4 being replaced by the event labeled e9 inside of the space-time interval whose endpoints are labeled time_2 and time_3.
+
+
+Because the diagram was designed to visually depict causality, it can be assumed that the information processing agent which traverses the green highlighted path cannot travel backwards in time nor in any other direction other than where the arrows point to.
+
+
+________________
+
+
+
+
+karbytes hypothesizes that causality (and the underlying rules of physics (which precisely control how matter and energy behave inside of at least one space-time continuum)) is entirely arbitrary and subjective (i.e. confined to exactly one partial (rather than omniscient) frame of reference (such that the frame of reference appears to itself to be substantiated by an information processing agent whose hardware body is confined to exactly one space-time continuum and such that the information processing agent’s body is a relatively changeless and finite configuration of matter traversing unidirectionally through time and at what appears to that information processing agent’s frame of reference to be a constant rate of time passing)) instead of being hierarchical (i.e. one particular casual chain being favored over all alternative causal chains) or objective (i.e. occurring without a partial frame of reference to observe it).
+
+
+Causality (i.e. determinism) is the hypothetical unidirectional relationship between multiple unique events such that exactly one of those events, E(time_0), is observed (by some partial frame of reference, A) to occur immediately before exactly one other event, E(time_1), occurs and such that the total amount of entropy in the universe which encompasses those events increases as time elapses inside of that universe. It is implied that, within the context of A’s perceptual and conceptual modeling of reality (and to the exclusion of all other aspects of reality which are not ever experienced by A), there exist ubiquitous rules of physics which make A’s model of reality logically consistent such that the discrete (i.e. unique and non-overlapping) phenomena it models are forced to appear and to disappear in exactly one linear permutation through time in through the implementation of some ontological “process of elimination” algorithm.
+
+
+An event such as E(time_0) is a computational process which is instantiated using a finite amount of time, space, matter, and energy and which is observed or hypothesized to occur (according to some partial frame of reference such as A).
+
+
+If A’s conceptual modeling of reality is sufficiently comprehensive and logically consistent, A can relatively accurately predict which phenomena will occur in E(time_1) using empirical and logical data which are available to A while A is observing phenomena in E(time_0) because the physical rules which constrain the behavior of phenomena which A observes to occur in E(time_0) are apparently the same physical rules which constrain the behavior of phenomena which A observes to occur in E(time_1) and, also, because E(time_0) and E(time_1) occur inside of the same universe (i.e. A’s subjective rendering of exactly one space-time continuum) such that what happens in E(time_0) does not appear to be constrained by what happens in E(time_1) (but what happens inside E(time_1) appears to be constrained by what happens in E(time_0)).
+
+
+________________
+
+
+
+
+01_DECEMBER_2023: The image which is displayed on this web page depicts a binary tree directional graph instead of an N-ary tree directional graph (where N is a placeholder for some arbitrary natural number (and such that not all nodes have the same number of branches stemming from it)). Each information processing agent traverses exactly one linear space-time continuum through a multiverse whose decisional branching into child universes from exactly one parent universe resembles an N-ary tree directional graph (and not necessarily just a binary tree directional graph).
+
+
+________________
+
+
+
+
+This web page was last updated on 01_DECEMBER_2023. The content displayed on this web page is licensed as PUBLIC_DOMAIN intellectual property.
+
+
+________________
