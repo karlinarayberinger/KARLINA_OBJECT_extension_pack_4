@@ -1,7 +1,7 @@
 /** 
   * file: karbytes_for_life_blog_updates.txt
   * type: plain-text 
-  * date: 01_DECEMBER_2023 
+  * date: 02_DECEMBER_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN 
   */
@@ -73,3 +73,5 @@ karbytes updated the web page name KARLINA_OBJECT_winter_2023_starter_pack_physi
 karbytes updated the web page name raw_github_files_directory_KARLINA_OBJECT_extension_pack_4 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:08PM Pacific Standard Time on 01_DECEMBER_2023.
 
 karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:08PM Pacific Standard Time on 01_DECEMBER_2023.
+
+karbytes updated the web page name RAW_GITHUB_FILES_MACRO_DIRECTORY on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 3:51AM Pacific Standard Time on 02_DECEMBER_2023.
