@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_03_december_2023.txt
+ * type: plain-text
+ * date: 03_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 I am convinced that every phenomenon (which I (at least in some universes whithin the one all-encompassing multivetse refered to by karbytes as nature) observe (especially in terms of temporal duration) is the output of an algorithmic function referred to as Darwinian Natural Selection.
 
