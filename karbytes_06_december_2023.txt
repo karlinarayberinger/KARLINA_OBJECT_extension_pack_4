@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_06_december_2023.txt
+ * type: plain-text
+ * date: 06_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 According to karbytes, all frames of reference are unconditionally solipsistic.
 
