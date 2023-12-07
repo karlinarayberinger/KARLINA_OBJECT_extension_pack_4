@@ -5,3 +5,9 @@ I have been pretending that the domain names of my two personal (WordPress dot C
 (The above paragraph could be summarized as follows: karbytes wants to be the only person who saves those aforementioned URLs to the WayBack Machine (at least until karbytes dies). Also, karbytes does not approve any person other than karbytes making edits, deletions, or additions (in units referred to as web pages (which may have URLs which end with file extension names such as ".txt", ".html", or ".jpg" and instead of those URLs simply ending with identifier strings such as "about_karbytes" (which may or may not be followed by a forward slash character ("/")))) to any unit component of karbytes' websites (which are all encompassed by the website hosting space allocated to the aforementioned URLs)).
 
 I intend for the karbytes-created web pages which each has a uniquely corresponding one of those aforementioned URLs (Uniform Resource Locators (i.e. web page addresses)) to always remain freely and publicly accessible on the surface World Wide Web after those web pages are published by karbytes.
+
+* * *
+
+According to karbytes, each URL can be saved no more than one time per 45 minutes and no more than ten times per day (though some types of Internet hosted files have different daily save limits). 
+
+(karbytes does not want persons other than karbytes using up those WayBack Machine quotas by saving URLs of karbytes' websites. karbytes considers saving those aforementioned URLs on a near daily basis to be a pleasant and gratifying routine and means of self (or, more accurately, self assigned intrinsic value) preservation).
