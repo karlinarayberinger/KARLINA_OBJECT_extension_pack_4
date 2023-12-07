@@ -8,6 +8,6 @@ I intend for the karbytes-created web pages which each has a uniquely correspond
 
 * * *
 
-According to karbytes, each URL can be saved no more than one time per 45 minutes and no more than ten times per day (though some types of Internet hosted files have different daily save limits). 
+According to karbytes, each URL can be saved no more than one time per 45 minutes (starting after the previous save of that URL) no more than ten times per day to the WayBack Machine (though some types of Internet hosted files have different daily save limits). 
 
 (karbytes does not want persons other than karbytes using up those WayBack Machine quotas by saving URLs of karbytes' websites. karbytes considers saving those aforementioned URLs on a near daily basis to be a pleasant and gratifying routine and means of self (or, more accurately, self assigned intrinsic value) preservation).
