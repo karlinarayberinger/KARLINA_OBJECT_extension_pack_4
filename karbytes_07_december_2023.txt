@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_07_december_2023.txt
+ * type: plain-text
+ * date: 07_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 I have been pretending that the domain names of my two personal (WordPress dot Com) websites and my personal allocation of GitHub dot Com are protected by some kind of government approved internet traffic blocker in terms of persons other than myself saving URLs with those domain names in the WayBack Machine. 
 
