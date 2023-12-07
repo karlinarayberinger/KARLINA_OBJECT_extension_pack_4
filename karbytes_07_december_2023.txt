@@ -1,0 +1,7 @@
+t
+
+I have been pretending that the domain names of my two personal (WordPress dot Com) websites and my personal allocation of GitHub dot Com are protected by some kind of government approved internet traffic blocker in terms of persons other than myself saving URLs with those domain names in the WayBack Machine. 
+
+(The above paragraph could be summarized as follows: karbytes wants to be the only person who saves those aforementioned URLs to the WayBack Machine (at least until karbytes dies). Also, karbytes does not approve any person other than karbytes making edits, deletions, or additions (in units referred to as web pages (which may have URLs which end with file extension names such as ".txt", ".html", or ".jpg" and instead of those URLs simply ending with identifier strings such as "about_karbytes" (which may or may not be followed by a forward slash character ("/")))) to any unit component of karbytes' websites (which are all encompassed by the website hosting space allocated to the aforementioned URLs)).
+
+I intend for the karbytes-created web pages which each has a uniquely corresponding one of those aforementioned URLs (Uniform Resource Locators (i.e. web page addresses)) to always remain freely and publicly accessible on the surface World Wide Web after those web pages are published by karbytes.
