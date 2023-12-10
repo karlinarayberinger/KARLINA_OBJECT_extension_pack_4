@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_10_december_2023.txt
+ * type: plain-text
+ * date: 10_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 After not doing weed for three consecutive days, I noticed a significant increase in my short-term memory capacity and also in my ability to mentally concentrate on a particular topic of interest instead of that focus being diluted and more easily distracted by off-topic subject matter. Cannabis is still useful to me for pain relief and creative, relaxing activities such as making colored pencil drawings, but I think I have finally outgrown the stage in which I practically abused the substance by using it excessively often.
 
