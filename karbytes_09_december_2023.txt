@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_09_december_2023.txt
+ * type: plain-text
+ * date: 09_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 At approximately 10:20PM on 09_DECEMBER_2023 while karbytes was riding the BART train, karbytes was having the thought that perhaps the most essential difference between "Tier Two" and "Tier One" in terms of "Spiral Dynamics" evolutionary stages is that the former (which starts at "Stage Yellow") is about attaining genuine self sovereignty (which karbytes presumes is entirely the result of a person resolving intrapersonal (i.e. internal) conflicts of interest such that the person no longer experiences significant internal resistance to pursuing one's own goals) while the latter is the stages leading up to that developmental milestone. 
 
