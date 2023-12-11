@@ -38,7 +38,7 @@ karbytes: "Yes. I am saying that you choose neither your thoughts nor your perce
 
 pig_gorl: "You have nothing to do."
 
-karbytes: "Nature seems to always be doing things through objects with mass which are spatially finite and which interact with each other gravitationally, electromagnetically, and perhaps via quantum entanglement of subatomic particles. Hence, as long as you or I are manifest pieces of matter interacting with other pieces of matter, we are always being made to do things (including breathing or decaying after not breathing for a sufficiently long time (though I question whether or not you are a breathing organism instead of some robot which appears from my end to be a misery mongering and banal minded young woman hiding in some radio control tower)."
+karbytes: "Nature seems to always be doing things through objects with mass which are spatially finite and which interact with each other gravitationally, electromagnetically, and perhaps via quantum entanglement of subatomic particles. Hence, as long as you or I are manifest pieces of matter interacting with other pieces of matter, we are always being made to do things (including breathing or decaying after not breathing for a sufficiently long time (though I question whether or not you are a breathing organism instead of some robot which appears from my end to be a misery mongering and banal minded young woman hiding in some radio control tower))."
 
 pig_gorl: "Are you done?"
 
