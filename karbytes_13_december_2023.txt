@@ -1,13 +1,23 @@
-t
+/**
+ * file: karbytes_13_december_2023.txt
+ * type: plain-text
+ * date: 13_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
-I was not planning on mentioning to the public web that I created a makeshift winter jacket to keep my thorax (which is the most sensitive to heat loss part of my body) warm enough to not shiver when I'm outside sleeping or commuting (especially during the coldest hours of the day which seem to be between 3AM and 8AM) by cutting a hole in which to insert my head through folded plushy blankets (made out of some gray semi-elastic material) which I bought from Walmart sometime around February of this year. (Also, approximately two weeks ago I bought a rain jacket from REI because my snow jacket which I ordered from the Internet approximately one year ago went missing approximately six months after I bought it). 
+I was not planning on mentioning to the public web that I created a makeshift winter jacket to keep my thorax (which is the most sensitive to heat loss part of my body) warm enough to not shiver when I'm outside sleeping or commuting (especially during the coldest hours of the day which seem to be between 3AM and 8AM) by cutting a hole in which to insert my head through folded plushy blankets (made out of some gray semi-elastic material) which I bought from Walmart sometime around February of this year. (Also, approximately two weeks ago I bought a rain jacket from REI because my snow jacket which I ordered from the Internet (via Amazon dot Com) approximately one year ago went missing approximately six months after I bought it). 
 
 Today I noticed my sleeping bag and sleeping bag liner (which I both bought from REI earlier this year) went missing. Either someone stole it while I left my backpack in the coat roam unattended by me at work today or else I accidentally left it behind while I was rummaging through it today while riding the BART train.
 
 Some other petty human activity happened which inconvenienced me today and which I cannot help but strongly suspect is many other people deliberately trying to sabotage my efforts to achieve my personal goals (however meager). I would rather not "reward" publicity to such antics and animals committing such antics by publicly documenting identifying situational details about such subject matter on my web platform (i.e. the intellectual property referred to as karbytes according to the web page named ABOUT_KARBYTES on the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-In a nutshell, I think the drama I have vaguely alluded to in this journal entry pertains to there being an all-out war (waged by underdeveloped introverts forced by inpoverishing circumstances to be unnaturally extroverted (and on preventable cognitive and physical decline as one ages past 25 years old)) to annihilate introversion (because introversion correlates with affluence).
+In a nutshell, I think the drama I have vaguely alluded to in this journal entry pertains to there being an all-out war (waged by underdeveloped introverts forced by impoverishing circumstances to be unnaturally extroverted (and on preventable cognitive and physical decline as one ages past 25 years old)) to annihilate introversion (because introversion correlates with affluence).
 
 This might be too petty to put on the public web. I'll just stick it in the private side of my GitHub for now. Never mind. I think such antics are likely to continue and even get worse for me in the future. If I appear to be taking an unnecessarily long time adding new components to my websites, it is likely because I am in the midst of dealing with some kind of sudden and unexpected loss or adverse conditions which significantly impede my lifestyle goals. I am not interested in being any more supplicating than I feel is necessary (for keeping my job and for avoiding being in even worse circumstances) towards persons who I suspect are getting away with stealing and vandalizing my personal belongings or even physically harming me. 
 
-I don't have time to think like a "poor person" (if I want to escape the poverty cycle).
+I don't have time to think like a "poor person" (if I want to escape the "poverty cycle").
+
+* * *
+
+I noticed also that two of my jackets have gone missing since this morning. I do admit to vaping what little remains of the sativa resin in that cartridge I bought approximately two weeks ago. I tend to lose the most of my stuff while I am doing a lot of THC.
