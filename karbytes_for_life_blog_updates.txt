@@ -1,5 +1,3 @@
-
-
 /** 
   * file: karbytes_for_life_blog_updates.txt
   * type: plain-text 
