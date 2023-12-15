@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_14_december_2023.txt
+ * type: plain-text
+ * date: 14_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 Planet Earth is ruled exclusively by the animal species which refers to itself as human.
 
