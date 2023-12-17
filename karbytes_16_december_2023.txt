@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_16_december_2023.txt
+ * type: plain-text
+ * date: 16_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 Approximately one week ago I was thinking that perhaps nature (as a whole) is not sentient even though at least one partition of nature which is smaller than the whole of nature appears (to at least itself) to have sentience. 
 
