@@ -1,10 +1,16 @@
-t
+/**
+ * file: karbytes_17_december_2023.txt
+ * type: plain-text
+ * date: 17_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 1. Veganism
 
 2. Physically Active Lifestyle 
 
-3. Gravity-Assusted Back Decompression Exercises 
+3. Gravity-Assisted Back Decompression Exercises (especially back bends over a ledge)
 
 * * *
 
