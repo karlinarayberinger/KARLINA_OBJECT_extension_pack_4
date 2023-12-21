@@ -1,4 +1,18 @@
-t
+/**
+ * file: karbytes_20_december_2023.txt
+ * type: plain-text
+ * date: 20_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Are the following websites accessible from your device or are those websites censored on your device?
+
+website_0: https://karlinaobject.wordpress.com/
+
+website_1: https://karbytesforlifeblog.wordpress.com/
+
+* * *
 
 I have one request for Christmas 2023 and for my 34th birthday on 13_JANUARY_1990: for at least one person (especially a person who has never donated money to me before) to donate approximately five dollars to my website via the PayPal donation link on the home page of Karlina Object dot WordPress dot Com (and also on the home page of Karbytes For Life Blog dot WordPress dot Com).
 
