@@ -1,18 +1,18 @@
 /**
  * file: karbytes_21_december_2023.txt
  * type: plain-text
- * date: 21_DECEMBER_2023
+ * date: 22_DECEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
 Within the past week I lost a pair of sunglasses, a USB flash drive with details about my personal bank account in it, a USB-C to USB port cable, a high-end sleeping bag, and several nights of sleep due to being frequently harassed by other humans and corralled by them into hiding in physically uncomfortable places.
 
-I noticed that, as soon as I start mentally preparing to delve into time-consuming and intellectually-rigorous projects which I expect to take multiple days to complete, something happens in my environment which causes me to have to abruptly pack up my belongings and leave the premises (and oftentimes that happens multiple times within the span on three hours). That's typically when I lose personal belongings.
+I noticed that, as soon as I start mentally preparing to delve into time-consuming and intellectually-rigorous projects which I expect to take multiple days to complete, something happens in my environment which causes me to have to abruptly pack up my belongings and leave the premises (and oftentimes that happens multiple times within the span of three hours). That's typically when I lose personal belongings.
 
 I imagine someone like pig_gorl chortling that no one except for me wants me to complete my projects to my satisfaction (which means that my projects are not in sufficiently high demand to be allowed to be worked on (which means no one except for me is bothered by my projects not getting complete to my satisfaction (which means no one except for me is willing to supply the labor and material inputs needed to complete those projects to my satisfaction))).
 
-For approximately one decade I have strongly felt that computer programming is one of the most cost-effective, safe, accessible, and effective disciplines which almost any human could relatively cheaply do routinely in order to increase and maintain cognitive capacities and to exert some creative control over what I presume is a fundamentally computational universe. Throughout the ten years I have been a computer science student and blogger I expected other people to appreciate how inclusive of all human demographics I was trying to be and to, like me, develop a lifelong and passionate love affair with software development and computer science and information technology in general (especially for philosophical reasons). I admit that I am still in some degree of shock how unreceptive the general public has been towards my web presence and agenda as karbytes.
+For approximately one decade I have strongly felt that computer programming is one of the most cost-effective, safe, accessible, and effective disciplines which almost any human could relatively cheaply do routinely in order to increase and maintain cognitive capacities and to exert some creative control over what I presume is a fundamentally computational universe. Throughout the ten years I have been a computer science student and blogger I expected other people to appreciate how inclusive of all human demographics I was trying to be and to, like me, develop a lifelong and passionate love affair with software development and computer science and information technology in general (especially for philosophical reasons). I admit that I am still in some degree of shock about how unreceptive the general public has been towards my web presence and agenda as karbytes.
 
 Perhaps my evangelism about promoting computer science as an accessible, inclusive, and empowering hobby is seen by many people as being incompatible with their priorities and interests. Perhaps such people think my web presence and zeal towards such is excessively arrogant, expensive, and countercultural (and what such people think I should do instead is make interpersonal "in person" (rather than predominantly online) relationships with family and friends the only context in which I communicate, relax, and work in order to support my community and to extend my legitimate membership within that community (which without I would be practically naked on the streets begging for bare minimum necessities for my individual survival)).
 
