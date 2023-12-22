@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_22_december_2023.txt
+ * type: plain-text
+ * date: 22_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 I hypothesis that it is possible for humans to create a software simulation which appears to humans to be a scaled-down (yet sampled thoroughly enough to appear to encompass every law of physics, mathematics, and symbolic logic in general) model of the (relatively) physical universe which encompasses that software simulation and such that the software simulation contains within it a functional virtual replica of the physical computer running that software (and each successive "layer" of virtual reality which is being simulated on the original physical computer is a "lossy" digital approximation of that layer's parent layer for some finite number of layers until some "base case" to that recursive modeling process is obtained (and I assume that such a base case is where the data is too incomplete or too corrupted to render a functional virtual universe (i.e. a universe which is capable of modeling functional computational hardware running functional software)).
 
