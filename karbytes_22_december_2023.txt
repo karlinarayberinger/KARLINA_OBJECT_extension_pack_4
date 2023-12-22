@@ -10,7 +10,7 @@ I hypothesis that it is possible for humans to create a software simulation whic
 
 (I originally started typing this note when I thought that there could be indefinitely many virtual reality layers inside of one computer simulation using the argument that all phenomena are fundamentally confined to and consisting of cyberspace (i.e. software simulated realities)).
 
-(I would define a phenomenon as some spatially and temporally finite collection of ovserved qualia which can be approximately (if not entirely to completion) replicated within the confines of some computer simulated universe).
+(I would define a phenomenon as some spatially and temporally finite collection of observed qualia which can be approximately (if not entirely to completion) replicated within the confines of some computer simulated universe).
 
 * * *
 
