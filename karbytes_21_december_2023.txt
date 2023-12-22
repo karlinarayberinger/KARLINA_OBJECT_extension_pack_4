@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_21_december_2023.txt
+ * type: plain-text
+ * date: 21_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 Within the past week I lost a pair of sunglasses, a USB flash drive with details about my personal bank account in it, a USB-C to USB port cable, a high-end sleeping bag, and several nights of sleep due to being frequently harassed by other humans and corralled by them into hiding in physically uncomfortable places.
 
