@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_23_december_2023.txt
+ * type: plain-text
+ * date: 23_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 I am the fastest sperm.
 
