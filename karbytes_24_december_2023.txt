@@ -1,6 +1,10 @@
-t
-
-Lightweight breathable flexible 
+/**
+ * file: karbytes_24_december_2023.txt
+ * type: plain-text
+ * date: 24_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 Last night (approximately 26 hours ago) I accidentally cut my fingertip on a piece of glass which splintered off from a cannabis oil cartridge which I foolishly decided to break open in order to orally ingest the residual resin on those pieces (due to the fact that the battery for heating that vape cartridge was not charging with the USB-C to USB-C cable I was using to attempt to charge it by plugging it into my laptop's USB-C port (which my portable power stations lack) after I accidentally misplaced my only USB-C to USB 3.0 cable approximately 26 hours ago (and I have since retrieved the misplaced cable and bought two more of such cables)).
 
