@@ -1,3 +1,11 @@
+/**
+ * file: karbytes_26_december_2023.txt
+ * type: plain-text
+ * date: 26_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
 I was thinking about the universal basic income ideas which I wrote about more than six months ago in the following web pages which I wrote:
 
 https://karbytesforlifeblog.wordpress.com/technocratic_utopia_copy/
