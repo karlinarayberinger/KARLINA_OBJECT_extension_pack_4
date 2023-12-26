@@ -23,3 +23,7 @@ On the first day of each month at midnight, the technocratic socialist democrati
 The range deemed to be most optimal for selecting a universal basic income monthly average (in units of MONTH_TOKEN) by karbytes is (a) no fewer MONTH_TOKEN instances than what is necessary to pay for "basic expenses" such as food, rent, clothes, household items, electronics, medical coverage, and transportation and (b) no more MONTH_TOKEN instances than what what would enable a disruptively lopsided distribution of economic resources throughout the respective civilization.
 
 Citizens within such a civilization are strongly encouraged to attend university and/or participate in the human work force in order to foster optimal individual and societal well-being (i.e. long term survival, self esteem, and a sense of interdependence on a metaphysical and ecological level) while as many jobs as possible (which humans are not "in demand" for performing) are outsourced to robots.
+
+* * *
+
+I would like to add to this web page that, also, citizens may earn "bonus" MONTH_TOKEN instances (which are government-generated and issued to employers and individuals (based on merit or on having "special needs")) from working at jobs, partaking in contests or community events, or from self-employed means of generating income such as selling merchandise or access to proprietary information online. Note that each individual (i.e. for exactly one person) user account of MONTH_TOKEN cannot store more than a universal upper limit and that "overflow" tokens will be sent back to sender of tokens.
