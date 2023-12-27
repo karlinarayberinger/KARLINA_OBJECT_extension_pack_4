@@ -39,3 +39,7 @@ In a nutshell, the aforementioned keychain USB flash drive is expected to have a
 * * *
 
 It should be noted that, at approximately 2:30AM Pacific Standard Time on 27_DECEMBER_2023, karbytes realized that the web page named raw_github_files_directory_RAW_GITHUB_FILES_MACRO_DIRECTORY_first_73_micro_directories (of the section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbyte For Life Blog dot WordPress dot Com) should be changed to raw_github_files_directory_RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories (even though that may cause "link rot" to occur in older journal entries which link to the outdated version of that web page).
+
+* * *
+
+It should be noted that, at approximately 5:00AM Pacific Standard Time on 27_DECEMBER_2023, karbytes decided not to leave published any releases of the public karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_4 because the latest version of that repository is available to download the entire contents of as a zip file using the green "CODE" button on that repository's GitHub dot Com web page. 
