@@ -30,8 +30,46 @@ https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_4
 
 * * *
 
-karbytes also intends to add the each of the public karbytes-created GitHub repositories' uniquely corresponding zip files (of the respective repository's latest content (and every file in that repository)) which are referenced via green-highlighted hyperlinks (and one of such green-highlighted hyperlinks is displayed on each "micro directory" web page within the collection of web pages referred to as a "macro directory" on the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY on the website named Karbytes For Life Blog dot WordPress dot Com) to the aforementioned keychain flash drive before 12:00AM Pacific Standard Time on 27_DECEMBER_2023.
+karbytes also intends to add the each of the other public karbytes-created GitHub repositories' uniquely corresponding zip files (of the respective repository's latest content (and every file in that repository)) which are referenced via green-highlighted hyperlinks (and one of such green-highlighted hyperlinks is displayed on each "micro directory" web page within the collection of web pages referred to as a "macro directory" on the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY on the website named Karbytes For Life Blog dot WordPress dot Com) to the aforementioned keychain flash drive before 12:00AM Pacific Standard Time on 27_DECEMBER_2023.
 
 (Also, the latest content of the public karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_4 will have a corresponding GitHub repository release (named karbytes_27_december_2023 (which features a link to a zip file download)) whose content is all the files in that repository prior to 12:00AM Pacific Standard Time on 27_DECEMBER_2023).
 
-In a nutshell, the aforementioned keychain USB flash drive is expected to have all the files which are hosted in each of the public karbytes-created GitHub repositories which pertain to the karbytes-created public websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com. The aforementioned USB flash drive (after 12:00AM Pacific Standard Time on 27_DECEMBER_2023) is expected to contain all of the source code and media files which comprise those two aforementioned websites.
+In a nutshell, the aforementioned keychain USB flash drive is expected to have all the files which are hosted in each of the public karbytes-created GitHub repositories which pertain to the karbytes-created public websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com before karbytes enters the day labeled 27_DECEMBER_2023. The aforementioned USB flash drive (after 12:00AM Pacific Standard Time on 27_DECEMBER_2023) is expected to contain all of the source code and media files which comprise those two aforementioned websites.
+
+/**
+ * file: karbytes_27_december_2023.txt
+ * type: plain-text
+ * date: 26_DECEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+It should be noted that, by the time karbytes arrive inside of the day labeled 27_DECEMBER_2023, all of the files which are in each of the public karbytes-created GitHub repositories which are listed on the web page named KARBYTES_CODE_CONTINUES of the website named Karbytes For Life Blog dot WordPress dot Com will have been saved to at least one USB flash drive (solid state memory device which can be over-written and which uses configurations of trapped electrons to represent digital information).
+
+karbytes intends to periodically (ideally immediately after karbytes makes any changes to the aforementioned GitHub repositories) back up those aforementioned GitHub repositories to at least one solid-state digital storage device which karbytes owns and has physical access to. Presently, karbytes has a keychain USB flash drive which will be used to store all the files inside of each of the aforementioned GitHub repositories as they are on 12:00AM Pacific Standard Time on 27_DECEMBER_2023.
+
+To be clear, the aforementioned GitHub repositories are as follows:
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_4
+
+* * *
+
+karbytes also intends to add the each of the other public karbytes-created GitHub repositories' uniquely corresponding zip files (of the respective repository's latest content (and every file in that repository)) which are referenced via green-highlighted hyperlinks (and one of such green-highlighted hyperlinks is displayed on each "micro directory" web page within the collection of web pages referred to as a "macro directory" on the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY on the website named Karbytes For Life Blog dot WordPress dot Com) to the aforementioned keychain flash drive before 12:00AM Pacific Standard Time on 27_DECEMBER_2023.
+
+(Also, the latest content of the public karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_4 will have a corresponding GitHub repository release (named karbytes_27_december_2023 (which features a link to a zip file download)) whose content is all the files in that repository prior to 12:00AM Pacific Standard Time on 27_DECEMBER_2023).
+
+In a nutshell, the aforementioned keychain USB flash drive is expected to have all the files which are hosted in each of the public karbytes-created GitHub repositories which pertain to the karbytes-created public websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com before karbytes enters the day labeled 27_DECEMBER_2023. The aforementioned USB flash drive (after 12:00AM Pacific Standard Time on 27_DECEMBER_2023) is expected to contain all of the source code and media files which comprise those two aforementioned websites.
