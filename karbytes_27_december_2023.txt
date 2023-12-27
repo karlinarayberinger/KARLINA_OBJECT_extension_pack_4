@@ -9,3 +9,21 @@
 It should be noted that, by the time karbytes arrive inside of the day labeled 27_DECEMBER_2023, all of the files which are in each of the public karbytes-created GitHub repositories which are listed on the web page named KARBYTES_CODE_CONTINUES of the website named Karbytes For Life Blog dot WordPress dot Com will have been saved to at least one USB flash drive (solid state memory device which can be over-written and which uses configurations of trapped electrons to represent digital information).
 
 karbytes intends to periodically (ideally immediately after karbytes makes any changes to the aforementioned GitHub repositories) back up those aforementioned GitHub repositories to at least one solid-state digital storage device which karbytes owns and has physical access to. Presently, karbytes has a keychain USB flash drive which will be used to store all the files inside of each of the aforementioned GitHub repositories as they are on 12:00AM Pacific Standard Time on 27_DECEMBER_2023.
+
+To be clear, the aforementioned GitHub repositories are as follows:
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_4
